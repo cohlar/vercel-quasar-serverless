@@ -1,0 +1,5 @@
+{
+	"include": [
+		"..\\..\\..\\..\\..\\..\\api\\serverless-example\\index.ts"
+	]
+}
